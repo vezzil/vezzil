@@ -51,8 +51,9 @@ CI/CD, CronJobs, Swagger, Testify, MQTT
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vezzil&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vezzil&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vezzil&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vezzil&layout=compact&theme=default)
 
 ---
 
